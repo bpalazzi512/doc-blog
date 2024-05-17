@@ -10,6 +10,6 @@ authors:
 showAuthorsBadges: false
 ---
 
-# Introduction
+# Phase 1
 
-Hi, I'm Bobby. Here are my posts
+Leuven is cool.
