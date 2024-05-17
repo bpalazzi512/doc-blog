@@ -2,32 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Config on Summer 2024 Brussels DoC Blog Template</title>
-    <link>http://localhost:1313/hugo-blog-template/tags/config/</link>
+    <link>http://localhost:1313/doc-blog/tags/config/</link>
     <description>Recent content in Config on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog-template/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bobby&#39;s Update #1</title>
+      <link>http://localhost:1313/doc-blog/team_posts/bobby1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/team_posts/bobby1/</guid>
+      <description>Phase 1 # Leuven is cool.</description>
+      
+    </item>
+    
     <item>
       <title>Project - Phase I</title>
-      <link>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</link>
+      <link>http://localhost:1313/doc-blog/team_posts/phase1post/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</guid>
-      <description>Introduction Hi, We are Team Leuven!</description>
+      
+      <guid>http://localhost:1313/doc-blog/team_posts/phase1post/</guid>
+      <description>Introduction # Hi, We are Team Leuven!</description>
+      
     </item>
+    
+    <item>
+      <title>Bobby&#39;s Post #1</title>
+      <link>http://localhost:1313/doc-blog/bobbypalazzi/bp1/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/bobbypalazzi/bp1/</guid>
+      <description>This is my first post!</description>
+      
+    </item>
+    
     <item>
       <title>My Posts</title>
-      <link>http://localhost:1313/hugo-blog-template/bobbypalazzi/</link>
+      <link>http://localhost:1313/doc-blog/bobbypalazzi/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/bobbypalazzi/</guid>
-      <description>Welcome to my blog hi hi hi</description>
+      
+      <guid>http://localhost:1313/doc-blog/bobbypalazzi/</guid>
+      <description> Welcome to my blog # </description>
+      
     </item>
+    
     <item>
       <title>Project - Phase I</title>
-      <link>http://localhost:1313/hugo-blog-template/team_posts/</link>
+      <link>http://localhost:1313/doc-blog/team_posts/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/team_posts/</guid>
-      <description>Welcome to Team WeCanDoThis!</description>
+      
+      <guid>http://localhost:1313/doc-blog/team_posts/</guid>
+      <description>Welcome to Team Keefe # This is a really cool blog</description>
+      
     </item>
+    
   </channel>
 </rss>

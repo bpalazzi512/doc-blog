@@ -2,25 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric_gerber on Summer 2024 Brussels DoC Blog Template</title>
-    <link>http://localhost:1313/hugo-blog-template/authors/eric_gerber/</link>
+    <link>http://localhost:1313/doc-blog/authors/eric_gerber/</link>
     <description>Recent content in Eric_gerber on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog-template/authors/eric_gerber/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/authors/eric_gerber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project - Phase I</title>
-      <link>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</link>
+      <link>http://localhost:1313/doc-blog/team_posts/phase1post/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/team_posts/phase1post/</guid>
-      <description>Introduction Hi, We are Team Leuven!</description>
+      
+      <guid>http://localhost:1313/doc-blog/team_posts/phase1post/</guid>
+      <description>Introduction # Hi, We are Team Leuven!</description>
+      
     </item>
-    <item>
-      <title>Project - Phase I</title>
-      <link>http://localhost:1313/hugo-blog-template/team_posts/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/team_posts/</guid>
-      <description>Welcome to Team WeCanDoThis!</description>
-    </item>
+    
   </channel>
 </rss>

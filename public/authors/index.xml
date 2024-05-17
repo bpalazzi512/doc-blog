@@ -2,32 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Summer 2024 Brussels DoC Blog Template</title>
-    <link>http://localhost:1313/hugo-blog-template/authors/</link>
+    <link>http://localhost:1313/doc-blog/authors/</link>
     <description>Recent content in Authors on Summer 2024 Brussels DoC Blog Template</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-blog-template/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Eric_gerber</title>
-      <link>http://localhost:1313/hugo-blog-template/authors/eric_gerber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/authors/eric_gerber/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mark_fontenot</title>
-      <link>http://localhost:1313/hugo-blog-template/authors/mark_fontenot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/authors/mark_fontenot/</guid>
-      <description></description>
-    </item>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bobby_palazzi</title>
-      <link>http://localhost:1313/hugo-blog-template/authors/bobby_palazzi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-blog-template/authors/bobby_palazzi/</guid>
+      <link>http://localhost:1313/doc-blog/authors/bobby_palazzi/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/bobby_palazzi/</guid>
       <description></description>
+      
     </item>
+    
+    <item>
+      <title>Eric_gerber</title>
+      <link>http://localhost:1313/doc-blog/authors/eric_gerber/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/eric_gerber/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mark_fontenot</title>
+      <link>http://localhost:1313/doc-blog/authors/mark_fontenot/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/mark_fontenot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Brady_li</title>
+      <link>http://localhost:1313/doc-blog/authors/brady_li/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/brady_li/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gavin_sanders</title>
+      <link>http://localhost:1313/doc-blog/authors/gavin_sanders/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/gavin_sanders/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seamus_coyne</title>
+      <link>http://localhost:1313/doc-blog/authors/seamus_coyne/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/authors/seamus_coyne/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
