@@ -6,10 +6,13 @@ description: "Our Idea"
 tags: ["authors", "config", "docs"]
 slug: "index"
 authors:
-  - "eric_gerber"
-showAuthorsBadges : false
+  - "bobby_palazzi"
+  - "seamus_coyne"
+  - "brady_li"
+  - "gavin_sanders"
+showAuthorsBadges: false
 ---
 
-# Welcome to Team WeCanDoThis!
+# Welcome to Team Keefe
 
-Welcome to the Professorial Team's Blog
+This is a really cool blog
