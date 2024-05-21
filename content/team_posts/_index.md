@@ -13,8 +13,6 @@ authors:
 showAuthorsBadges: false
 ---
 
-# Welcome to Team Keefe
-
-This is a really cool blog
+# Welcome to Team Gerbies' Posts!
 
 
