@@ -21,13 +21,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/doc-blog/bobbypalazzi/bp1/</loc>
+    <loc>http://localhost:1313/doc-blog/bobbypalazzi/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/doc-blog/bobbypalazzi/</loc>
+    <loc>http://localhost:1313/doc-blog/bobbypalazzi/phase1/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -45,6 +45,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/doc-blog/gavinsanders/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/doc-blog/gavinsanders/blog1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

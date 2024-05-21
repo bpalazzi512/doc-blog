@@ -19,22 +19,22 @@
     </item>
     
     <item>
-      <title>Bobby&#39;s Post #1</title>
-      <link>http://localhost:1313/doc-blog/bobbypalazzi/bp1/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/doc-blog/bobbypalazzi/bp1/</guid>
-      <description>This is my first post!</description>
-      
-    </item>
-    
-    <item>
       <title>My Posts</title>
       <link>http://localhost:1313/doc-blog/bobbypalazzi/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/doc-blog/bobbypalazzi/</guid>
       <description> Welcome to my blog # </description>
+      
+    </item>
+    
+    <item>
+      <title>Phase 1 Individual Post</title>
+      <link>http://localhost:1313/doc-blog/bobbypalazzi/phase1/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/bobbypalazzi/phase1/</guid>
+      <description>Government and Politics in Belgium!</description>
       
     </item>
     
