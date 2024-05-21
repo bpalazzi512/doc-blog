@@ -45,7 +45,7 @@ We’ll primarily be using the Eurostat API which contains extensive information
 
  
  
-## Personas:
+## Archetypes / User Personas:
 ### A College Graduate Working in the U.S. thinking about getting a job abroad cares about job prospects, unemployment, language, cost of living, transportation, salary, and quality of life
 	
 Bob always loved traveling but felt he was tied down by his field and career to stay in the U.S. He is in the process of looking for a new job and with his curiosity he started to consider applying to some jobs in London because he has some friends studying there. Bob stumbles across the site and starts to scroll the map on the site and hovers over England which displays some interesting statistics from EuroStat that he did not know before. He clicks on the U.K. and it zooms in to display more statistics and asks more individualized questions about living there and jobs. 
