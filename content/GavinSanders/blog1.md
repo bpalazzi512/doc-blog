@@ -1,3 +1,17 @@
+---
+title: "Gavin's post #1"
+date: 2024-05-21
+draft: false
+description: "Gavin's post #1"
+tags: ["authors", "config", "docs"]
+slug: "BLp1"
+authors:
+  - "gavin_sanders"
+showAuthorsBadges : false
+---
+
+
+
 # Blog Post 1
 
 So far I've really enjoyed Belgium and the programme. I love how every town we visit has its own unique charm and character; Leuven in particular has been a pleasure to stay in. I've been thinking a lot about the standard of life here vs. in the US. I think there's definitely a lot of lessons we could learn from the Belgians and from Europe in general. For one: college only costs $900 per year. It would be great if we could get on top of that one fast, say within the next 3 years. The dependance on bikes has also been eye-opening here. I think the US should definitely be taking more steps to encourage biking, perhaps by diverting highway funds into bike infrastructure. Though I doubt we'll ever reach Belgium's level of bike-usage, we can definitely improve our numbers. (Pictured below: a sea of bikes I saw in Ghent).

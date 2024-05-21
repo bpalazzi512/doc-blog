@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Gavin&#39;s post #1</title>
+      <link>http://localhost:1313/doc-blog/gavinsanders/blp1/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/gavinsanders/blp1/</guid>
+      <description>Blog Post 1 # So far I&amp;rsquo;ve really enjoyed Belgium and the programme.</description>
+      
+    </item>
+    
+    <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/doc-blog/team_posts/phase1post/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
@@ -35,16 +45,6 @@
       
       <guid>http://localhost:1313/doc-blog/bobbypalazzi/phase1/</guid>
       <description>Government and Politics in Belgium!</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/doc-blog/gavinsanders/blog1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/doc-blog/gavinsanders/blog1/</guid>
-      <description>Blog Post 1 # So far I&amp;rsquo;ve really enjoyed Belgium and the programme.</description>
       
     </item>
     
