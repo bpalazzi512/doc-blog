@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Summer 2024 Brussels DoC Blog Template</title>
+    <title>Summer 2024 Brussels DoC Blog (The Gerbies)</title>
     <link>http://localhost:1313/doc-blog/</link>
-    <description>Recent content on Summer 2024 Brussels DoC Blog Template</description>
+    <description>Recent content on Summer 2024 Brussels DoC Blog (The Gerbies)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bobby&#39;s Update #1</title>
-      <link>http://localhost:1313/doc-blog/team_posts/bobby1/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <title>Brady&#39;s post #1</title>
+      <link>http://localhost:1313/doc-blog/bradyli/blp1/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/doc-blog/team_posts/bobby1/</guid>
-      <description>Phase 1 # Leuven is cool.</description>
+      <guid>http://localhost:1313/doc-blog/bradyli/blp1/</guid>
+      <description>This is my first post!</description>
       
     </item>
     
     <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/doc-blog/team_posts/phase1post/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/doc-blog/team_posts/phase1post/</guid>
-      <description>Introduction # Hi, We are Team Leuven!</description>
+      <description>Introduction # Hi, We are Team Gerbies!</description>
       
     </item>
     
@@ -45,6 +45,16 @@
       
       <guid>http://localhost:1313/doc-blog/gavinsanders/blog1/</guid>
       <description>Blog Post 1 # So far I&amp;rsquo;ve really enjoyed Belgium and the programme.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/doc-blog/seamuscoyne/blog1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/doc-blog/seamuscoyne/blog1/</guid>
+      <description></description>
       
     </item>
     

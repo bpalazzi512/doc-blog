@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project - Phase I on Summer 2024 Brussels DoC Blog Template</title>
+    <title>Project - Phase I on Summer 2024 Brussels DoC Blog (The Gerbies)</title>
     <link>http://localhost:1313/doc-blog/team_posts/</link>
-    <description>Recent content in Project - Phase I on Summer 2024 Brussels DoC Blog Template</description>
+    <description>Recent content in Project - Phase I on Summer 2024 Brussels DoC Blog (The Gerbies)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
     <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/doc-blog/team_posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bobby&#39;s Update #1</title>
-      <link>http://localhost:1313/doc-blog/team_posts/bobby1/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/doc-blog/team_posts/bobby1/</guid>
-      <description>Phase 1 # Leuven is cool.</description>
-      
-    </item>
-    
-    <item>
       <title>Project - Phase I</title>
       <link>http://localhost:1313/doc-blog/team_posts/phase1post/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/doc-blog/team_posts/phase1post/</guid>
-      <description>Introduction # Hi, We are Team Leuven!</description>
+      <description>Introduction # Hi, We are Team Gerbies!</description>
       
     </item>
     
