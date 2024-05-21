@@ -26,5 +26,5 @@ Recently, the academic component of the program has become increasingly time con
 
 So far, my favorite day trip has been to Namur, where we had to opportunity to tour the Nam IP Computer Museum. I enjoyed having time to experience the city and move throughout the open-air markets and citadel during some of our freetime. While at Nam IP, it was interesting to learn more about the fundamental background of computing through history. For me, it is easy to forget the amount of work that allowed me to use the computers I use on a daily basis, so seeing the layout from most basic to modern computers was interesting.
 
-! [Nam IP](https://image.wmsm.co/5acb1f6a90652/computer-museum-nam-ip-namur-1.jpg?quality=80&width=1280)
+![Nam IP](https://image.wmsm.co/5acb1f6a90652/computer-museum-nam-ip-namur-1.jpg?quality=80&width=1280)
 
