@@ -15,14 +15,14 @@ showAuthorsBadges : false
 
 # Introduction
 
-Hi, We are Team **Gerbies!** Our team is named after the beloved Dr. Gerber
+Hi, We are Team **Gerbies!** Our team is named after the beloved Dr. Gerber!
 
 # CONTEXT 
 ![plane](https://foodfuntravel.com/wp-content/uploads/2022/05/2-1024x474.jpg)
 
 ## Project Description:
 
-We propose an app called “CONTEXT.” Our aim is to provide prospective immigrants/expats with the context they need to decide where to move. Our app will specialize specifically in European locations. When the user opens the webpage, they will enter information including their age, marital status, whether or not they have kids, etc. From there, the site will present them with a number of sliders to gauge their personal preferences. For example, if the user cares deeply about safety/crime rate, they would adjust this slider to the right. Doing so would update the weight values and thus their “best fit” country ranking. We’ve identified several other preference categories with supporting data from Eurostat including population age, happiness index, access to transit, and average engagement in leisure activities. We’ll continue to add more relevant fields as we see fit. 
+We propose an app called **“CONTEXT.”** Our aim is to provide prospective immigrants/expats with the context they need to decide where to move. Our app will specialize specifically in European locations. When the user opens the webpage, they will enter information including their age, marital status, whether or not they have kids, etc. From there, the site will present them with a number of sliders to gauge their personal preferences. For example, if the user cares deeply about safety/crime rate, they would adjust this slider to the right. Doing so would update the weight values and thus their “best fit” country ranking. We’ve identified several other preference categories with supporting data from Eurostat including population age, happiness index, access to transit, and average engagement in leisure activities. We’ll continue to add more relevant fields as we see fit. 
 
 The app will also have predictive features enabled by ML for some of these categories; for example, the user may be able to see what the average income in country X might be in 5 years (following current trends). We want to make our app as user-friendly as possible; the ranking will be aesthetically pleasing, including a picture of each country, its name, the number in the list, and a short description. We would also like to explore the possibility of using the ChatGPT API to deliver the rankings in a more digestible, organic way. Through CONTEXT, we hope to provide users with a clear picture of their lives in Europe and help them narrow down the many potential options. We hope we can be the catalyst to help people make that jump and experience all the world has to offer. 
 
