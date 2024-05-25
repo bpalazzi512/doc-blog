@@ -17,7 +17,10 @@ showAuthorsBadges : false
 
 Hi, We are Team **Gerbies!** Our team is named after the beloved Dr. Gerber
 
-## CONTEXT Project Description:
+# CONTEXT 
+![plane](https://foodfuntravel.com/wp-content/uploads/2022/05/2-1024x474.jpg)
+
+## Project Description:
 
 We propose an app called “CONTEXT.” Our aim is to provide prospective immigrants/expats with the context they need to decide where to move. Our app will specialize specifically in European locations. When the user opens the webpage, they will enter information including their age, marital status, whether or not they have kids, etc. From there, the site will present them with a number of sliders to gauge their personal preferences. For example, if the user cares deeply about safety/crime rate, they would adjust this slider to the right. Doing so would update the weight values and thus their “best fit” country ranking. We’ve identified several other preference categories with supporting data from Eurostat including population age, happiness index, access to transit, and average engagement in leisure activities. We’ll continue to add more relevant fields as we see fit. 
 
@@ -45,7 +48,7 @@ We’ll primarily be using the Eurostat API which contains extensive information
 
  
  
-## Archetypes / User Personas:
+## Personas and User Stories:
 ### 1) Sarah (Young student)
 Sarah has never really traveled before and is from a small town in Alaska. She came from a poor background but got a big scholarship for pursuing higher education. Her family wants her to stay close but she thinks college in Europe could be cheaper and fun. She wants to get away from the cold weather but is afraid of what life abroad could be like. 
 
