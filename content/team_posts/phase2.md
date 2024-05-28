@@ -17,13 +17,6 @@ This week we spent a lot of time re-thinking many aspects of the project. Upon e
 
 We also began work on our first ML model which consisted of a simple linear regression demonstrating the relationship of crime rate over time by crime category in each European country. We are pleased with the results so far. We have been talking about what data to use for our next ML model. One option we discussed was predicting the annual cost of living for each country as a function of time. This would be useful information to someone moving to Europe since cost is a big factor in the decision to move somewhere. We are also discussing the possibility of using ML to do the country ranking itself using clustering. The alternative method of computing the ranking would be formulaic. 
 
-## Wireframe Sketches can be found [HERE](https://github.com/coyne1313/cs4973_project/blob/main/wireframe.pdf)
-
-## Jupyter Notebook Test Bed [HERE](https://github.com/coyne1313/cs4973_project/blob/main/4973_testbed.ipynb) 
-## Data Cleaning [HERE](https://github.com/coyne1313/cs4973_project/blob/main/eurostat_EDA.ipynb)
-
-## And the link to the SQL schema for our global ERD: [HERE](https://github.com/coyne1313/cs4973_project/blob/main/context.sql)
-
 
 ## Here are the images of our ER diagrams:
 
@@ -35,9 +28,53 @@ We also began work on our first ML model which consisted of a simple linear regr
 
 ![Global ER](https://github.com/bpalazzi512/doc-blog/blob/main/assets/global.png?raw=true)
 
+## And here is the link to the SQL schema for our global ERD: [SQL File](https://github.com/coyne1313/cs4973_project/blob/main/context.sql)
 
 
 ## Graphs of Data
 ![homicide](https://github.com/bpalazzi512/doc-blog/blob/main/assets/homicide_bar.png?raw=true)
 ![homicide2](https://github.com/bpalazzi512/doc-blog/blob/main/assets/homicide_bp.png?raw=true)
 ![robbery](https://github.com/bpalazzi512/doc-blog/blob/main/assets/robbery_linreg.png?raw=true)
+
+## Changes From Phase1
+We made some changes to our Personas and user stories after working out the ER diagram with Dr. Fontenot. Below are our new Personas and user stories for each! 
+
+# PERSONAS
+
+**Bob** is a software engineer from NYC. He always loved traveling but felt he was tied down by his field and career to stay in the U.S. He is in the process of looking for a new job, and with his curiosity he started to consider applying to some jobs in London because he has some friends studying there. 
+
+## General User - Person Thinking About Moving Abroad
+- Inputs their info and preferences
+- Individualized country ranking generated (with maps)
+- Can see the projected future cost of living for each country
+- Can click on each country in the ranking list to view its page
+- Can browse moving company options for each country, compare prices by move load
+- Move load categories: full household, part household (including furniture), personal effects (more than 10 boxes), excess baggage, vehicle only
+
+## User stories 
+- As a someone thinking about moving abroad, I want to know the logistics of moving abroad including visas and moving all my assets. I want to learn what are the steps I have to complete in order to legally and physically move abroad. This is so I feel content and can start planning with potentially useful resources. 
+- As a software engineer working in the United States, I want to know if the countries I’m interested in moving to will be sustainable for me long term in terms of salary, unemployment, and demand of my job. This is so I feel secure that I can live in abroad long term. 
+- As a traveler, I want to find a location that suits me as a person. I want to be able to input my preferences and what I find the most important to me like ease of transportation. This is so I can better picture myself abroad and ensure my happiness. 
+
+
+**Sarah** works as a marketing manager at Fontemoves, a moving company that helps individuals move their households across states and countries.
+
+## Moving company
+- Updates their costs/services per move load, adds countries, connect with users (get user data)
+
+## User Stories
+- As a moving company, we want to connect with users and have access to potential/current customers data. This is so we can contact users of our service and make revenue. 
+
+- As a growing company, we want to be able to update our profile, biography, and services. This is so that we can provide potential customers with our most recent achievements and services. We are expanding our coverage of places we can help move to so we want users to know we are an option for them. We also want to be able to adjust our prices as the market changes.
+
+- As a marketting manager, I want to be able to advertise our company to users. I want to show off our reviews, coverage, and successful stories. This is so I can effectively market the company to potential users. 
+
+Maddy is from Belgium and has lived in Brussels for 29 years. She is retired now and occasionally works in nonprofits giving waffle tours around the city. She is very passionate about sharing the culture and beauty of Belgium. 
+
+## Country Admin
+- Admin Status: Responsible for updating their country’s page with the most relevant info. This includes the high-level bio as well as more specific info like visa application process etc. 
+
+## User Stories
+- As the CONTEXT country admin of Belgium, I want to be able to edit and add to the biography and tips for Belgium. This is because when I stumble across new experiences and tips, I can share it to many individuals.
+- As a passionate belgium resident, I want to be able to share my experiences, weekly updates, and pictures to show off what life is like in Belgium. This is so I can expand on my person bio and blog on the page.
+- As a food tour guide on the side, I want to be able to recommend amazing locations and food places that intices people to visit and move here. This is so I can share my expertise and feel valued after my retirement. 
