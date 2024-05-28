@@ -17,6 +17,7 @@ This week we spent a lot of time re-thinking many aspects of the project. Upon e
 
 We also began work on our first ML model which consisted of a simple linear regression demonstrating the relationship of crime rate over time by crime category in each European country. We are pleased with the results so far. We have been talking about what data to use for our next ML model. One option we discussed was predicting the annual cost of living for each country as a function of time. This would be useful information to someone moving to Europe since cost is a big factor in the decision to move somewhere. We are also discussing the possibility of using ML to do the country ranking itself using clustering. The alternative method of computing the ranking would be formulaic. 
 
+## Wireframe Sketches can be found [HERE](https://github.com/coyne1313/cs4973_project/blob/main/wireframe.pdf)
 
 ## Here are the images of our ER diagrams:
 
