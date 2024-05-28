@@ -19,6 +19,12 @@ We also began work on our first ML model which consisted of a simple linear regr
 
 ## Wireframe Sketches can be found [HERE](https://github.com/coyne1313/cs4973_project/blob/main/wireframe.pdf)
 
+## Jupyter Notebook Test Bed [HERE](https://github.com/coyne1313/cs4973_project/blob/main/4973_testbed.ipynb) 
+## Data Cleaning [HERE](https://github.com/coyne1313/cs4973_project/blob/main/eurostat_EDA.ipynb)
+
+## And the link to the SQL schema for our global ERD: [HERE](https://github.com/coyne1313/cs4973_project/blob/main/context.sql)
+
+
 ## Here are the images of our ER diagrams:
 
 ![Standard User ER](https://github.com/bpalazzi512/doc-blog/blob/main/assets/standard%20user.png?raw=true)
@@ -29,7 +35,6 @@ We also began work on our first ML model which consisted of a simple linear regr
 
 ![Global ER](https://github.com/bpalazzi512/doc-blog/blob/main/assets/global.png?raw=true)
 
-## And here is the link to the SQL schema for our global ERD: [SQL File](https://github.com/coyne1313/cs4973_project/blob/main/context.sql)
 
 
 ## Graphs of Data
