@@ -4,7 +4,7 @@ date: 2024-05-21
 draft: false
 description: "Gavin's post #1"
 tags: ["authors", "config", "docs"]
-slug: "BLp1"
+slug: "GSp2"
 authors:
   - "gavin_sanders"
 showAuthorsBadges : false
