@@ -48,6 +48,8 @@ Most of this phased we focused on the crime data, but we also successfuly obtain
 
 To view the linear regression model (based on country and year), click [here](https://github.com/coyne1313/cs4973_project/blob/main/eurostat_EDA.ipynb)
 
+## The Wireframe Sketches can be found [HERE](https://github.com/coyne1313/cs4973_project/blob/main/wireframe.pdf)
+
 ## Changes From Phase1
 
 We made some changes to our Personas and user stories after working out the ER diagram with Dr. Fontenot. Below are our new Personas and user stories for each!
