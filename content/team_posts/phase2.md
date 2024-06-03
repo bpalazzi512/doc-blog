@@ -27,7 +27,7 @@ We also began work on our first ML model which consisted of a simple linear regr
 
 ![Global ER](https://github.com/bpalazzi512/doc-blog/blob/main/assets/global.png?raw=true)
 
-## And here is the link to the SQL schema for our global ERD: [SQL File](https://github.com/coyne1313/cs4973_project/blob/main/context.sql)
+## And here is the link to the SQL schema for our global ERD: [SQL File](https://github.com/coyne1313/cs4973_project/tree/main)
 
 ## Graphs of Data
 
