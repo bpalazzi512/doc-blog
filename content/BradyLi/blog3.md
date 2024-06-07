@@ -1,6 +1,6 @@
 ---
 title: "Brady's post #3"
-date: 2024-06-6
+date: 2024-06-06
 draft: false
 description: "Brady's post #3"
 tags: ["authors", "config", "docs"]
