@@ -29,3 +29,6 @@ This is could be better, will expand on it and reword more after project end dat
 - A functioning website application to help individuals thinking about moving abroad supporting users, moving companies, and admins.
 - Developed and implemented a database and Flask rest API contianing 40 routes to the frontend made using streamlit and python.
 - Incorportated backend to frontend to update seamlessly.
+
+# Going to miss this dialouge!
+This has been an amazing experience, amazing people, amazing professors, amazing work! So sad it is all over, but I will stay connected with everyone! 
