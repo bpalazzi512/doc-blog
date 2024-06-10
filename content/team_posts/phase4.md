@@ -87,7 +87,7 @@ Cosine similarity works by calculating the cosine of the angle between two vecto
 
 When considering vectors \( A \) and \( B \):
 
-$$
+
 \\(\cos(\theta) = \frac{A \cdot B}{||A|| \cdot ||B||}\\)
 
 Where:
@@ -100,6 +100,10 @@ Where:
 1. Calculate the dot product of vectors \( A \) and \( B \)
 2. Calculate the magnitude of the vectors
 3. Calculate the cosine similarity
+
+![cosine_similarity](https://github.com/bpalazzi512/doc-blog/blob/main/assets/cos_sim_code.png?raw=true)
+
+This code segment represents the meat of the cosine similarity model implemented for our purposes. After verifying that the array dimension is not 1 (and if it is, computing the absolute difference), the sklearn cosine similarity function is employed. The top n matches are then determined and ordered using argsort(). Their corresponding nations are then ready to be returned to the frontend.
 
 ## API Development and Backend Integration
 
