@@ -36,7 +36,7 @@ We also began work on our first ML model which consisted of a simple linear regr
 ![robbery](https://github.com/bpalazzi512/doc-blog/blob/main/assets/robbery_linreg.png?raw=true)
 ![crime](https://github.com/coyne1313/cs4973_project/blob/main/total_crime.png)
 
-## Data visualization / ML Model reasoning
+## Data visualization / ML Model reasoninggi
 
 For much of our data, we decided to look at each country individually to see if there was a general trend over time in Europe. Turns out, there was. For many types of crime (specifically violent crime), there seemed to be a consistent decrease in the amount. Note: for any model going forward we will be using the data scaled on population, so we can compare between countries. We decided to plot the number of crimes (scaled) against time because it seemed to be a general trend that crime decreases over time. Specific crimes like theft have increased in recent years, but overall crime is down (as seen in a few of the graphs provided). Many of our big questions revolved around predicting what a country will look like in the future, and if we can see the trends in the data already, it seems we will be able to give users of our app accurate predictions (at least revolving crime in the European country they are looking at). This is also the reason why we decided to make our first machine learning model off of this data.
 
