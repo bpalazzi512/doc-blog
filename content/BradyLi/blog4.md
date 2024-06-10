@@ -22,3 +22,10 @@ I made probably most of the API routes so like 25 to 30. I left the other member
 
 # Struggle 
 It was a struggle to get everything working. Every new route and feature would come with errors sometimes as small as a comma. We struggled with the PUT requests at the start, but once we got one of each our only enemy was time. I could envision how implementations for features could go it just meant I would have to debug because I knew bugs were bound to pop up. I learned so much about how to build software. I can see why people say software engineers spend their entire day just working on a single button now! It was so much work, but it made me realize that I enjoy CS and software development; I was dreaming of code and was excited in the morning to implement more and more features. I got so much better with debugging and man GPT is such a good tool to help debug.
+
+# Resume points!
+This is could be better, will expand on it and reword more after project end date:
+
+- A functioning website application to help individuals thinking about moving abroad supporting users, moving companies, and admins.
+- Developed and implemented a database and Flask rest API contianing 40 routes to the frontend made using streamlit and python.
+- Incorportated backend to frontend to update seamlessly.
