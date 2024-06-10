@@ -25,6 +25,8 @@ Machine learning model 1, a linear regression used to predict crime rates over t
 
 To complete these changes, additional data was processed and written into the database, along with column refactoring to ensure consistency. This also included designing new routes to allow the Python programs to access MySQL content.
 
+
+
 ## Linear Regression
 
 Linear regression is a commonly used method of determining and utilizing the relationship between a dependent variable \( Y \) and one or more independent variables \( X \). While other versions analyze with the use of multiple \( X \) variables, the model used here is known as a simple linear regression, drawing data from one \( Y \) and \( X \) variable to create predictions. 
@@ -38,6 +40,45 @@ Where:
 - \( X \) is the independent variable
 - \( \beta_0 \) is the intercept
 - \( \beta_1 \) is the slope of the independent variable
+
+## Model 1
+
+For our first model, we utilized linear regression to predict crime per 100k residents based on country and time. We used a dataset from Eurostat to get the total amount of crime per 100k residents in every country for every year. This wasn’t the easiest task to get the data into the by year format as every country recorded data based on the types of crime, so we had to loop through the whole dataset and manually record the amount of crimes per 100k for that given year.
+
+![Pre-sum](https://i.ibb.co/sH16wPT/Screenshot-2024-06-10-at-7-59-19-PM.png)
+Pre Sum
+
+
+![Post-sum](https://i.ibb.co/m4PjJ7S/Screenshot-2024-06-10-at-7-59-33-PM.png)
+
+This is the data that is stored in our database to be used to train the model. When we retrieve the data in the backend, we create a dataframe with one-hot-encoding and do simple linear regression on that data. 
+
+![Dummies](https://i.ibb.co/VYKdGg2/Screenshot-2024-06-10-at-8-09-29-PM.png)
+
+Note: the drop_first parameter is important here. Without that, we overfit the data, leading to a very inaccurate model (found this out very recently)
+
+![Crime](​​https://i.ibb.co/P1MCppJ/Screenshot-2024-06-10-at-7-59-45-PM.png)
+Graph of total crime
+
+![Regression1](https://i.ibb.co/fQSScyk/Screenshot-2024-06-10-at-8-00-03-PM.png)
+Here, I set up X and Y and find the line of best fit
+
+![Helper](https://i.ibb.co/Sr2dZtK/Screenshot-2024-06-10-at-8-00-09-PM.png)
+Helper function
+
+Turns out, this model is very accurate, with an R^2 of about 0.93. This makes sense considering the following plot of y values vs. predicted y values.
+
+![ypred](https://i.ibb.co/Vp11qCL/Screenshot-2024-06-10-at-8-00-19-PM.png)
+
+Furthermore, looking at the residual plots, it appears none of the assumptions are violated
+
+![Residuals1](https://i.ibb.co/cJ8mP5H/Screenshot-2024-06-10-at-8-00-37-PM.png)
+![Residuals2](https://i.ibb.co/5LpLSwS/Screenshot-2024-06-10-at-8-00-29-PM.png)
+
+
+
+
+
 
 ## Cosine Similarity 
 
