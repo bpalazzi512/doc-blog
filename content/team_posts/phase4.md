@@ -58,7 +58,7 @@ This is the data that is stored in our database to be used to train the model. W
 
 Note: the drop_first parameter is important here. Without that, we overfit the data, leading to a very inaccurate model (found this out very recently)
 
-![Crime](​​https://i.ibb.co/P1MCppJ/Screenshot-2024-06-10-at-7-59-45-PM.png)
+
 Graph of total crime
 
 ![Regression1](https://i.ibb.co/fQSScyk/Screenshot-2024-06-10-at-8-00-03-PM.png)
