@@ -28,7 +28,7 @@ Linear regression is a commonly used method of determining and utilizing the rel
 
 The general form of a linear regression is:
 
-\\( Y = \beta_0 + \beta_1X\\)
+\\( Y = \beta_0 + \beta_1X\\) 
 
 Where:
 - \( Y \) is the dependent variable
