@@ -14,6 +14,9 @@ showAuthorsBadges: false
 ---
 {{< katex >}}
 
+## Slides linkout
+[LINK](https://docs.google.com/presentation/d/1fXcqpzLVSoFwaYzdTRdtBE8xQRvwlK4YNPJwMhhC31o/edit?usp=sharing)
+
 ## This Week in Review
 
 This week marked the completion of Phase 4 and, by extension, the project as a whole. For both the data and computer science teams, the week was a sprint. Key milestones included the development and implementation of a cosine similarity model to match users to countries, refinement of the web app interface, further development of the database/Rest API, and more. While previous talks had leaned toward machine learning designs in the area of K-Nearest Neighbors, these were ultimately abandoned in the interest of streamlining development while also understanding the relative limitations these types of models imposed given a lack of true training data. Because of this, a cosine similarity approach was adopted. Despite being a “softer” machine learning approach, it provided a more efficient method of matching, allowing users to input percentile scores per feature based on importance.
