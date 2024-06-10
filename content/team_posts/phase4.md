@@ -68,7 +68,7 @@ The frontend underwent substantial enhancements. We redesigned the home page, de
 
 ## Dynamic and Scalable Page Generation
 
-Our application features 3 abstract page templates that dynamically generate 27 unique country pages by pulling data from the database. Additionally, we have 27 admin pages corresponding to each country, using MOCK data, and 100 pages for the 100 moving companies also generated with MOCK data. This design ensures scalability, allowing us to easily add more companies and different countries, and even expand to include specific cities in the future.
+Our application features 3 abstract page templates that dynamically generate 27 unique country pages by pulling data from the database. Additionally, we have 27 admin pages corresponding to each country, using Mockaroo data, and 100 pages for the 100 moving companies also generated with Mockaroo data. This design ensures scalability, allowing us to easily add more companies and different countries, and even expand to include specific cities in the future.
 
 ## Challenges and Learning
 
