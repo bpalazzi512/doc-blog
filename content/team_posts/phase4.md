@@ -50,6 +50,7 @@ Pre Sum
 
 
 ![Post-sum](https://i.ibb.co/m4PjJ7S/Screenshot-2024-06-10-at-7-59-33-PM.png)
+Post sum
 
 This is the data that is stored in our database to be used to train the model. When we retrieve the data in the backend, we create a dataframe with one-hot-encoding and do simple linear regression on that data. 
 
