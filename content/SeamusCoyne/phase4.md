@@ -20,7 +20,7 @@ I truly can’t believe the program has run its course. While it feels like our 
 
 ## Challenges and Enjoyable Aspects
 
-The aspect of the project I found most challenging was the integration of the second machine learning model in the UI. As described above, this was a huge strain that required a lot of time and work from all members of the group. Something I found enjoyable was originally a challenge; navigating the struggles of coding within a bigger group. While I had used Git and Github in the past, I was not nearly as comfortable with its features (or with handling a dreaded merge conflict) as I am now.
+The aspect of the project I found most challenging was the integration of the second machine learning model in the UI. As described above, this was a huge strain that required a lot of time and work from all members of the group. Something I found enjoyable was originally a challenge; navigating the struggles of coding within a bigger group. While I had used Git and Github in the past, I was not nearly as comfortable with its features (or with handling a dreaded merge conflict) as I am now. Admittedly, the moment when everything actually worked and could be shown off was easily my favorite moment.
 
 ## Resume Section
 
