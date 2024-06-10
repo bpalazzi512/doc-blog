@@ -105,9 +105,9 @@ Where:
 
 This code segment represents the meat of the cosine similarity model implemented for our purposes. After verifying that the array dimension is not 1 (and if it is, computing the absolute difference), the sklearn cosine similarity function is employed. The top n matches are then determined and ordered using argsort(). Their corresponding nations are then ready to be returned to the frontend.
 
-## API Development and Backend Integration
+## Software Architecuture Overview
 
-One of our primary focuses was on developing the API routes. We created approximately 40 routes across 5 different route blueprints, ensuring they were thoroughly integrated with the backend and the database. These routes included POST, PUT, GET, and DELETE operations, providing comprehensive CRUD functionality. This integration was crucial to ensure that every button press—whether for saving, editing, deleting, selecting, or switching—had the intended after-effect. It was essential that the frontend displays weren't just for show but were functional and responsive to user interactions.
+Our web app incorporates 3 major layers: the frontend, middleware, and backend. To create the frontend UI we are using streamlit which has been a great and relatively simple solution. For the middleware we are using Flask and a rest api to interface with the database using GET, POST, PUT, and DELETE  requests. The database is hosted in a mySQL docker container; we created approximately 40 routes across 5 different blueprints to access this data in the middleware. This integration was crucial to ensure that every button press—whether for saving, editing, deleting, selecting, or switching—had the intended after-effect. It was essential that the frontend displays weren't just for show but were functional and responsive to user interactions.
 
 ## Moving Companies Features
 
@@ -123,15 +123,7 @@ Our application features 3 abstract page templates that dynamically generate 27 
 
 ## Challenges and Learning
 
-Implementing POST and PUT requests presented initial challenges, but through perseverance and collaboration, we overcame these obstacles. Debugging became a daily activity, teaching us the intricacies of software development and the patience required to get everything working correctly. We discovered the importance of precise implementation—sometimes, errors as minor as a misplaced comma could cause significant issues.
-
-## Machine Learning Integration
-
-One of the most challenging aspects of our project was integrating the machine learning models into both the frontend and backend. This involved significant adaptations to ensure compatibility and functionality. Collaborating closely, we managed to integrate the second ML model, which was a significant hurdle due to its complexity and the need for extensive backend modifications.
-
-## Interactive Map and Geospatial Data
-
-Adding an interactive map to the rankings page was another major achievement. This feature highlights countries on a spectrum from green to red based on their current ranking. It required parsing a large JSON file with data on the borders of every country. Initially, we used GeoPandas for this task, but compatibility issues with Macs running Apple Silicon led us to seek alternatives. After much troubleshooting, including manually compiling missing C dependencies, we found a geo-parsing package that worked after some tweaks.
+Implementing POST and PUT requests presented initial challenges, but through perseverance and collaboration, we overcame these obstacles. Debugging became a daily activity, teaching us the intricacies of software development and the patience required to get everything working correctly. We discovered the importance of precise implementation—sometimes, errors as minor as a misplaced comma could cause significant issues. One of the most challenging aspects of our project was integrating the machine learning models into both the frontend and backend. This involved significant adaptations to ensure compatibility and functionality. Collaborating closely, we managed to integrate the second ML model, which was a significant hurdle due to its complexity and the need for extensive backend modifications. Adding an interactive map to the rankings page was another major hurdle. This feature highlights countries on a spectrum from green to red based on their current ranking. It required parsing a large JSON file with data on the borders of every country. Initially, we used GeoPandas for this task, but compatibility issues with Macs running Apple Silicon led us to seek alternatives. After much troubleshooting, including manually compiling missing C dependencies, we found an alternative geo-parsing package that worked after some tweaks.
 
 ## Final Database Architecture Overview
 
