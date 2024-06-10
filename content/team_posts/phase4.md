@@ -115,7 +115,7 @@ We dedicated significant effort to building and refining the moving companies' p
 
 ## Frontend Enhancements
 
-The frontend underwent substantial enhancements. We redesigned the home page, developed the moving company pages, and added new features to the country pages. These improvements were not just about aesthetics but also about ensuring a smooth and intuitive user experience. Integrating existing UI elements with the backend was a significant task that required modifications to the database to support these connections.
+The frontend underwent substantial enhancements. We redesigned the website's theming, added additional stats to the moving company pages, and made table data more easy to modify/delete. These improvements were not just about aesthetics but also about ensuring a smooth and intuitive user experience. Integrating existing UI elements with the backend was a significant task that required modifications to the database to support these connections.
 
 ## Dynamic and Scalable Page Generation
 
