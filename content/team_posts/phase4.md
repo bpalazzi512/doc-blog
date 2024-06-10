@@ -12,6 +12,7 @@ authors:
   - "seamus_coyne"
 showAuthorsBadges: false
 ---
+{{< katex >}}
 
 ## This Week in Review
 
@@ -27,9 +28,7 @@ Linear regression is a commonly used method of determining and utilizing the rel
 
 The general form of a linear regression is:
 
-$$
-\[ Y = \beta_0 + \beta_1X \]
-$$
+\\( Y = \beta_0 + \beta_1X\\)
 
 Where:
 - \( Y \) is the dependent variable
@@ -44,8 +43,7 @@ Cosine similarity works by calculating the cosine of the angle between two vecto
 When considering vectors \( A \) and \( B \):
 
 $$
-\[ \cos(\theta) = \frac{A \cdot B}{||A|| \cdot ||B||} \]
-$$
+\\(\cos(\theta) = \frac{A \cdot B}{||A|| \cdot ||B||}\\)
 
 Where:
 - \( A \cdot B \) is the dot product of vectors \( A \) and \( B \)
