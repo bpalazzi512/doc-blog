@@ -17,3 +17,14 @@ This phase has been revolutionary for our app. In the past few days, its styling
 ## Personal update
 
 I truly can’t believe the program has run its course. While it feels like our time in Belgium has flown by, the thought of flying out of Boston seems like it was months ago. My favorite speaker of the phase (maybe of the program) was the law researcher from KU Leuven. Having learned a great deal about Belgium’s policies in tech, it was so fascinating hearing about his real world interactions with these laws and the corporations that defy them. A close second was EnergyVille. I admit to having low expectations going in, but the last two presentations were very interesting, as they related to the intersection between data and outside industries. All in all, this month has been absolutely unforgettable. Not only have the outings and experiences been fun and informative, I can genuinely say that I have learned so much from both classes. I didn’t have the highest expectations for Leuven coming in, but I absolutely love it here and will miss it greatly. I am very ready to get back to a healthy sleep schedule and ice water once I’m home again, though.
+
+## Challenges and Enjoyable Aspects
+
+The aspect of the project I found most challenging was the integration of the second machine learning model in the UI. As described above, this was a huge strain that required a lot of time and work from all members of the group. Something I found enjoyable was originally a challenge; navigating the struggles of coding within a bigger group. While I had used Git and Github in the past, I was not nearly as comfortable with its features (or with handling a dreaded merge conflict) as I am now.
+
+## Resume Section
+
+# Context Travel Web App
+- Developed a user-focused web application facilitating connectivity between travelers, moving companies, and country admin officials
+- Employed linear regression and cosine similarity modeling methods to predict crime rates and pair user preferences with country profiles
+- Skills: Python, NumPy, Scikit-Learn, Streamlit, Git, Plotly
